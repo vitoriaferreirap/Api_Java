@@ -12,7 +12,7 @@ e a criação de uma API sem frameworks, comparando duas abordagens:
 
 Demonstrar, de forma explícita, como um servidor HTTP funciona internamente.
 
-### O que este código faz
+### O que este código faz:
 
 - Cria um servidor TCP manualmente
 - Abre uma porta de rede
